@@ -30,3 +30,11 @@ Built to strengthen understanding of authentication security concepts and passwo
 - GUI version
 - Larger password datasets
 - Threat intelligence integration
+
+## Security Concepts Demonstrated
+
+- Authentication Security
+- Password Entropy
+- Defensive Security Engineering
+- Risk Assessment
+- Secure Credential Practices
